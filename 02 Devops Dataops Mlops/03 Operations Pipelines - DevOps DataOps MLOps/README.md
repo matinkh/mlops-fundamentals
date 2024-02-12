@@ -62,16 +62,6 @@ Also, you can use **templates** to setup your GitHub repository with predefined 
 
 
 
-#### Fine-Tuning with Hugging Face
-
-[Hugging Face](huggingface.co) is a model hosting service that has three main components:
-
-1. **Models:** list of models, tagged with their tasks and usecases.
-2. **Datasets:** list of available data for a variety of purposes.
-3. **Spaces:** deploy ML models for demos.
-
-
-
 ## 3.2 Using Pipelines for DataOps
 
 ### Key Terms
